@@ -33,6 +33,10 @@ Source:- Chat GPT.
 📊 Interactive Power BI dashboard with dynamic filters
 📈 Real-time tracking of Sales, Profit, Quantity, and Average Order Value
 🗺️ State-wise sales performance analysis
+
+Screenshots / Demos
+![Dashboard Preview](https://github.com/rishee9696/Ecommerce-Sales-Dashboard/blob/main/Sales%20Dashboard.png)
+
 📅 Monthly profit trend visualization
 👥 Customer purchasing behavior insights
 🛍️ Category and sub-category performance analysis
