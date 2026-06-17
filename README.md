@@ -30,15 +30,34 @@ Source:- Chat GPT.
 
 ✨ Features & Highlights
 
-📊 Interactive Power BI dashboard with dynamic filters
-📈 Real-time tracking of Sales, Profit, Quantity, and Average Order Value
-🗺️ State-wise sales performance analysis
+✨ Features & Highlights
 
-Screenshots / Demos
-![Dashboard Preview](https://github.com/rishee9696/Ecommerce-Sales-Dashboard/blob/main/Sales%20Dashboard.png)
+🔹 Interactive Dashboard – Dynamic slicers for Quarter and State-wise analysis.
+
+🔹 Key Performance Indicators (KPIs) – Track Total Sales (231K), Profit (24K), Quantity Sold (3K), and Average Value at a glance.
+
+🔹 Sales Performance Analysis – Monitor sales distribution across different states to identify top-performing regions.
+
+🔹 Monthly Profit Trends – Visualize profit growth and losses across months for better business forecasting.
+
+🔹 Customer Insights – Analyze top customers based on sales contribution and purchasing behavior.
+
+🔹 Category & Sub-Category Analysis – Evaluate product performance across categories such as Clothing, Electronics, and Furniture.
+
+🔹 Payment Mode Analytics – Understand customer payment preferences including COD, UPI, Debit Card, Credit Card, and EMI.
+
+🔹 Profitability Tracking – Identify the most profitable product sub-categories and areas needing improvement.
+
+🔹 Data-Driven Decision Making – Transform raw e-commerce data into actionable business insights through intuitive visualizations.
+
+🔹 User-Friendly Design – Clean, modern, and responsive dashboard layout for easy navigation and analysis.
 
 📅 Monthly profit trend visualization
 👥 Customer purchasing behavior insights
 🛍️ Category and sub-category performance analysis
 💳 Payment mode distribution and preferences
 🎯 Actionable insights for data-driven business decisions
+
+Screenshots / Demos
+![Dashboard Preview](https://github.com/rishee9696/Ecommerce-Sales-Dashboard/blob/main/Sales%20Dashboard.png)
+
